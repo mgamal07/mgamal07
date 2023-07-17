@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="[https://tenor.com/buOXr.gif](https://tenor.com/view/aws-gif-19699711)">
+<img width="250" align="right" src="https://w7.pngwing.com/pngs/610/693/png-transparent-amazon-aws-logo.png">
 
 <h3 align="center">
   Welcome to Mahmoud Gamal's profile!
