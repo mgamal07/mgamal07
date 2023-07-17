@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://w7.pngwing.com/pngs/610/693/png-transparent-amazon-aws-logo.png">
+<img width="250" align="right" src="https://uploads-ssl.webflow.com/619811f15cf1e46af063c233/620dc6482e585bbdb5feff64_aws-logo.png">
 
 <h3 align="center">
   Welcome to Mahmoud Gamal's profile!
